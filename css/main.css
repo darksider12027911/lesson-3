@@ -1,0 +1,84 @@
+.body{
+  background-color: aqua; text-align: center;
+}
+
+
+
+
+.pen {
+  list-style-type: none; 
+  text-align: center;
+  background-color: aliceblue;
+}
+
+.text {
+  color: darkgrey;
+}
+
+.egg {
+  color: blue;
+}
+
+
+.car {
+  color: indigo;
+}
+
+
+.tea {
+  background-color: aquamarine;
+}
+
+.box {
+   color: darkcyan;
+}
+
+
+.one {
+  color: cornflowerblue;
+}
+
+
+
+.in {
+   color:black;
+}
+
+.team {
+  color: darkorange;
+}
+
+.corporate {
+  color: blueviolet;
+}
+
+.two {
+  background-color: coral;
+}
+
+.pricing{
+  text-align: center;
+  background-color: coral;
+  color: wheat;
+}
+
+.and { 
+  text-align: center;
+  background-color: darkorange;
+  color: wheat;
+}
+
+
+.soon {
+  text-align: center;
+  background-color: l;
+  color: wheat;
+}
+
+.black {
+  color: lightslategrey;
+  text-align: center
+}
+
+
+
